@@ -22,7 +22,7 @@ int main()
     int numero_pontos_turisticos_2;
 
     // Titulo do jogo
-    printf(">>>>>>>>>> SUPER.TRUNFO <<<<<<<<<<");
+    printf(">>>>>>>>>> SUPER....TRUNFO <<<<<<<<<<");
 
     // Entrada de dados Carta 1
     printf("\n - Carta 1:");
